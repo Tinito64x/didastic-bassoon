@@ -1,1 +1,1 @@
-A new CNAME repository.
+A new repository.
